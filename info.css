@@ -1,0 +1,24 @@
+body{
+    background-color: darkblue;
+}
+
+.lobster img{
+    border-radius: 50%;
+    width: 200px;
+    height: 150px;
+    position: fixed;
+}
+
+.tittel{
+    color: white;
+    margin-left: 540px;
+}
+
+.lorem{
+    color: white;
+}
+
+.glow:hover img{
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 10px 10px 15px rgba(255, 255, 255, 0.9);
+}
